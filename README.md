@@ -1,7 +1,7 @@
 # zoohackathon 2021 Uganda (Team Loxodonta)
 National Digital Wildlife Tracking System (NDWTS)
 
-The NDWTS is a system that uses block-chain technology to track the origin and legality of the live animal.
+The NDWTS is a system that uses block-chain technology to track the origin and legality of the live wild animal.
 
 
 ![Dashboard](https://user-images.githubusercontent.com/94260966/141662960-6a318ece-d71a-4ae2-bfd8-6dcf6e76de82.PNG)
@@ -12,9 +12,12 @@ The NDWTS is a system that uses block-chain technology to track the origin and l
 
 ![All Animals](https://user-images.githubusercontent.com/94260966/141663010-b6f26cb0-98ec-4fef-8d3d-2e604ab21ef3.PNG)
 
-![breeders](https://user-images.githubusercontent.com/94260966/141663020-29fdb053-6d9a-404b-9b5c-071cb7ac61c6.PNG)![1636807714436](https://user-images.githubusercontent.com/94260966/141663064-ccca486f-1b5c-4114-b448-6fd076510ac5.png)
+![breeders](https://user-images.githubusercontent.com/94260966/141663020-29fdb053-6d9a-404b-9b5c-071cb7ac61c6.PNG)
 
-#NDWTS App
+ **NDWTS App**
+ 
+![1636807714436](https://user-images.githubusercontent.com/94260966/141663064-ccca486f-1b5c-4114-b448-6fd076510ac5.png)
+
 ![1636807729149](https://user-images.githubusercontent.com/94260966/141663066-607f4aeb-6acb-4ee7-b85a-a944eb77127a.png)
 
 ![1636807761734](https://user-images.githubusercontent.com/94260966/141663067-2ee5e771-786e-4071-aa43-e554b2647d60.png)
